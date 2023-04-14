@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/jekyll-advance-pro/"
+baseurl: "/jekyll-advance-pro"
 url: "https://erinmaybach.github.io"
 permalink: pretty
 markdown: kramdown
