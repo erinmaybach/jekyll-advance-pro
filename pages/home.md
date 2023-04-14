@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "BioInoform"
+description: "Connect.Collaborate.Compute."
 header_transparent: true
 meta_title: Jekyll Advance - Premium Jekyll Theme
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "BioInform"
+  sub_heading: "Fostering interdisciplinary collaboration through the lens of bioinformatis."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
