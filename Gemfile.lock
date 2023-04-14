@@ -32,8 +32,6 @@ GEM
     jekyll-environment-variables (1.0.1)
       jekyll (>= 3.0, < 5.x)
     jekyll-paginate (1.1.0)
-    jekyll-paginate-v2 (3.0.0)
-      jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (2.2.0)
       sassc (> 2.0.1, < 3.0)
     jekyll-watch (2.2.1)
@@ -64,13 +62,13 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  arm64-darwin-20
   x86_64-darwin-20
 
 DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-environment-variables
   jekyll-paginate
-  jekyll-paginate-v2 (~> 3.0)
   webrick (~> 1.7)
 
 BUNDLED WITH
