@@ -40,6 +40,21 @@ body_classes: page-home
   {% assign cards = cards | sort: 'weight' %}
 {% endif %}
 
+{% if page.intro.enabled %}
+  <div class="section">
+    <div class="container">
+      {% include framework/blocks/sections/info.html
+      heading=page.intro.heading
+      sub_heading=page.intro.sub_heading
+      align=page.intro.align
+      features=page.intro.features
+      buttons=page.intro.buttons
+      image=page.intro.image
+      %}
+    </div>
+  </div>
+{% endif %}
+
 {% if page.services.enabled %}
   <div class="section bg-base-bg-2">
     <div class="container">
@@ -74,22 +89,6 @@ body_classes: page-home
   </div>
 </div>
 {% endif %}
-
-{% if page.intro.enabled %}
-  <div class="section">
-    <div class="container">
-      {% include framework/blocks/sections/info.html
-      heading=page.intro.heading
-      sub_heading=page.intro.sub_heading
-      align=page.intro.align
-      features=page.intro.features
-      buttons=page.intro.buttons
-      image=page.intro.image
-      %}
-    </div>
-  </div>
-{% endif %}
-
 
 {% if page.partners.enabled %}
 {% assign partners = site.data.partners %}
