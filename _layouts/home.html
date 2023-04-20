@@ -31,15 +31,6 @@ body_classes: page-home
   </div>
 {% endif %}
 
-{% assign cards = site.services | sort: 'date' | reverse %}
-{% assign limit = page.services.limit | default: 3 %}
-{% assign sort_by = page.services.sort | default: 'date' %}
-{% assign columns =  page.services.columns | default: 3 %}
-{% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
-{% if sort_by == 'weight' %}
-  {% assign cards = cards | sort: 'weight' %}
-{% endif %}
-
 {% if page.intro.enabled %}
   <div class="section">
     <div class="container">
@@ -53,6 +44,15 @@ body_classes: page-home
       %}
     </div>
   </div>
+{% endif %}
+
+{% assign cards = site.services | sort: 'date' | reverse %}
+{% assign limit = page.services.limit | default: 3 %}
+{% assign sort_by = page.services.sort | default: 'date' %}
+{% assign columns =  page.services.columns | default: 3 %}
+{% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
+{% if sort_by == 'weight' %}
+  {% assign cards = cards | sort: 'weight' %}
 {% endif %}
 
 {% if page.services.enabled %}
