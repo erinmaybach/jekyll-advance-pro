@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: "/jekyll-advance-pro"
-url: "https://erinmaybach.github.io"
+url: "https://bioinform.co"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
