@@ -36,15 +36,6 @@ hero:
         outline: true
         style: "light"
 
-services:
-  enabled: true
-  heading: "Our Services"
-  sub_heading: ""
-  limit: 6
-  sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
-  view_more_button_link: "/services"
-
 intro:
   enabled: true
   align: left
@@ -72,6 +63,15 @@ intro:
         size: large
         outline: false
         style: "primary"
+
+services:
+  enabled: true
+  heading: "Our Services"
+  sub_heading: ""
+  limit: 6
+  sort: "weight" # 'date'
+  view_more_button_text: "View All Services"
+  view_more_button_link: "/services"
 
 partners:
   enabled: true
