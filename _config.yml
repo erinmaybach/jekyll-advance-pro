@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/jekyll-advance-pro"
+baseurl: "/bioinform.co"
 url: "https://bioinform.co"
 permalink: pretty
 markdown: kramdown
