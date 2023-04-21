@@ -53,7 +53,7 @@ defaults:
       weight: 999
   - scope:
       path: ""
-      type: tool
+      type: tools
     values:
       layout: post
       weight: 999
