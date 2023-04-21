@@ -62,6 +62,12 @@ defaults:
       path: "pages"
     values:
       permalink: /:basename/
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: post
+      weight: 999
 
 # SCSS
 sass:
