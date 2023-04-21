@@ -29,6 +29,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:path/
+  resources:
+    output: true
+    permalink: /resources/:path/
 
 defaults:
   - scope:
