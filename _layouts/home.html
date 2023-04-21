@@ -76,6 +76,21 @@ body_classes: page-home
   </div>
 {% endif %}
 
+{% if page.advice.enabled %}
+  <div class="section">
+    <div class="container">
+      {% include framework/blocks/sections/info.html
+      heading=page.advice.heading
+      sub_heading=page.advice.sub_heading
+      align=page.advice.align
+      features=page.advice.features
+      buttons=page.advice.buttons
+      image=page.advice.image
+      %}
+    </div>
+  </div>
+{% endif %}
+
 {% assign cards = site.services | sort: 'date' | reverse %}
 {% assign limit = page.services.limit | default: 3 %}
 {% assign sort_by = page.services.sort | default: 'date' %}
