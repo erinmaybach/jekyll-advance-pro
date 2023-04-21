@@ -17,6 +17,7 @@ paginate: 6
 paginate_path: "/blog/page/:num"
 paginate_path: "/resources/page/:num"
 paginate_path: "/literature/page/:num"
+paginate_path: "/advice/page/:num"
 
 collections:
   services:
@@ -37,6 +38,9 @@ collections:
   papers:
     output: true
     permalink: /literature/:path/
+  quotes:
+    output: true
+    permalink: /advice/:path/
 
 defaults:
   - scope:
@@ -64,6 +68,12 @@ defaults:
   - scope:
       path: ""
       type: papers
+    values:
+      layout: post
+      weight: 999
+  - scope:
+      path: ""
+      type: quotes
     values:
       layout: post
       weight: 999
