@@ -1,14 +1,14 @@
 ---
 layout: default
 body_classes: page-blog
-title: Educational Resources
-description: "Learn the basics of bioinformatics or strengthen your skills"
+title: Educational resources
+description: "Educational resources"
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Educational Resources"
-  sub_heading: "Learn the basics of Bioinformatics without open-acess-overwhelm"
+  heading: "Resources"
+  sub_heading: "The best bioinformatics resources at every level of expertise. Curated by us."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -20,7 +20,7 @@ hero:
   buttons:
     enabled: false
     list:
-      - text: "Contact Us"
+      - text: "Have a resource?"
         url: "/contact"
         external: false
         fa_icon: false
@@ -57,7 +57,7 @@ hero:
   </div>
 {% endif %}
 
-{% assign post_pages = site.eduresources  %}
+{% assign post_pages = site.posts  %}
 
 <div class="section strip-base">
   <div class="container">
@@ -65,37 +65,20 @@ hero:
     <div class="row">
       <div class="col-12 col-lg-8">
         <div class="row">
-    {% if paginator %}
-      {% for eduresource in paginator.eduresources %}
-        <div class="col-12 mb-3 mb-md-9">
-          {% include theme/cards/card-posts.html
-            style="row"
-            date=eduresource.date
-            title=eduresource.title
-            description=eduresource.description
-            thumbnail=eduresource.thumbnail
-            url=eduresource.url
-            categories=eduresource.categories
-            show_read_more=false
-          %}
-        </div>
-      {% endfor %}
-    {% else %}
-      {% for eduresource in site.eduresources %}
-        <div class="col-12 mb-3 mb-md-9">
-          {% include theme/cards/card-posts.html
-            style="row"
-            date=eduresource.date
-            title=eduresource.title
-            description=eduresource.description
-            thumbnail=eduresource.thumbnail
-            url=eduresource.url
-            categories=eduresource.categories
-            show_read_more=false
-          %}
-        </div>
-      {% endfor %}
-    {% endif %}
+          {% for post in paginator.posts %}
+            <div class="col-12 mb-3 mb-md-9">
+              {% include theme/cards/card-posts.html
+                style="row"
+                date=post.date
+                title=post.title
+                description=post.description 
+                thumbnail=post.thumbnail 
+                url=post.url
+                categories=post.categories
+                show_read_more=false
+              %}
+            </div>
+          {% endfor %}
         </div>
       </div>
 
