@@ -1,0 +1,108 @@
+---
+layout: default
+body_classes: page-blog
+title: Expert Advice
+description: "The latest news and opinions"
+header_transparent: true
+
+hero:
+  enabled: true
+  heading: "Expert Advice"
+  sub_heading: "Latest news & articles"
+  text_color: "#FFFFFF"
+  background_color: ""
+  background_gradient: true
+  background_image: false
+  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  fullscreen_mobile: false
+  fullscreen_desktop: false
+  height: "330px"
+  buttons:
+    enabled: false
+    list:
+      - text: "Contact Us"
+        url: "/contact"
+        external: false
+        fa_icon: false
+        size: large
+        outline: true
+        style: "light"
+---
+
+{% if page.hero.enabled %}
+  {% include framework/blocks/sections/hero.html 
+    heading=page.hero.heading
+    sub_heading=page.hero.sub_heading
+    background_image=page.hero.background_image
+    background_image_blend_mode=page.hero.background_image_blend_mode
+    background_color=page.hero.background_color
+    background_gradient=page.hero.background_gradient
+    text_color=page.hero.text_color
+    fullscreen_mobile=page.hero.fullscreen_mobile
+    fullscreen_desktop=page.hero.fullscreen_desktop
+    height=page.hero.height
+    buttons=page.hero.buttons
+  %}
+{% else %}
+  <div class="section">
+    <div class="container">
+    {% include framework/blocks/sections/title.html
+      fa_icon=page.fa_icon
+      icon=page.icon
+      title=page.title
+      description=page.description
+      image=page.image
+    %}
+    </div>
+  </div>
+{% endif %}
+
+{% assign post_pages = site.quotes %}
+
+<div class="section strip-base">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-12 col-lg-8">
+        <div class="row">
+         {% if paginator %}
+          {% for quote in paginator.quotes %}
+            <div class="col-12 mb-3 mb-md-9">
+              {% include theme/cards/card-posts.html
+                style="row"
+                title=quote.title
+                description=quote.description 
+                thumbnail=quote.thumbnail 
+                url=quote.url
+                show_read_more=false
+              %}
+            </div>
+          {% endfor %}
+        {% else %}
+          {% for quote in site.quote %}
+            <div class="col-12 mb-3 mb-md-9">
+              {% include theme/cards/card-posts.html
+                style="row"
+                date=quote.date
+                title=quote.title
+                description=quote.description
+                thumbnail=quote.thumbnail
+                url=quote.url
+                show_read_more=false
+              %}
+            </div>
+           {% endfor %}
+         {% endif %}
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        {% include framework/blocks/components/paginator.html %}
+      </div>
+    </div>
+
+  </div>
+</div>
