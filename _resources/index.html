@@ -65,20 +65,37 @@ hero:
     <div class="row">
       <div class="col-12 col-lg-8">
         <div class="row">
-          {% for eduresource in paginator.eduresources %}
-            <div class="col-12 mb-3 mb-md-9">
-              {% include theme/cards/card-posts.html
-                style="row"
-                date=eduresource.date
-                title=eduresource.title
-                description=eduresource.description 
-                thumbnail=eduresource.thumbnail 
-                url=eduresource.url
-                categories=eduresource.categories
-                show_read_more=false
-              %}
-            </div>
-          {% endfor %}
+    {% if paginator %}
+      {% for eduresource in paginator.eduresources %}
+        <div class="col-12 mb-3 mb-md-9">
+          {% include theme/cards/card-posts.html
+            style="row"
+            date=eduresource.date
+            title=eduresource.title
+            description=eduresource.description
+            thumbnail=eduresource.thumbnail
+            url=eduresource.url
+            categories=eduresource.categories
+            show_read_more=false
+          %}
+        </div>
+      {% endfor %}
+    {% else %}
+      {% for eduresource in site.eduresources %}
+        <div class="col-12 mb-3 mb-md-9">
+          {% include theme/cards/card-posts.html
+            style="row"
+            date=eduresource.date
+            title=eduresource.title
+            description=eduresource.description
+            thumbnail=eduresource.thumbnail
+            url=eduresource.url
+            categories=eduresource.categories
+            show_read_more=false
+          %}
+        </div>
+      {% endfor %}
+    {% endif %}
         </div>
       </div>
 
