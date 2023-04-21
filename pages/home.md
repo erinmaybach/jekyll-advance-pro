@@ -148,6 +148,34 @@ advice:
         outline: false
         style: "primary"
 
+ambassador:
+  enabled: true
+  align: left
+  image: "/assets/images/gen/content/content-6-thumbnail.webp"
+  heading: "Ambassador Program"
+  sub_heading: ""
+  features:
+    enabled: true
+    list:
+      - text: "Configure the homepage sections in front-matter."
+        fa_icon: "fas fa-check"
+      - text: "An advanced hero image section with dozens of design options."
+        fa_icon: "fas fa-check"
+      - text: "Fully responsive and SEO optimised."
+        fa_icon: "fas fa-check"
+      - text: "Multiple content types including services, projects, blog and more."
+        fa_icon: "fas fa-check"
+  buttons:
+    enabled: true
+    list:
+      - text: "Go"
+        url: "/ambassador"
+        external: false
+        fa_icon: ""
+        size: large
+        outline: false
+        style: "primary"
+
 services:
   enabled: true
   heading: "Our Services"
