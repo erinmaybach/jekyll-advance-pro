@@ -57,7 +57,7 @@ hero:
   </div>
 {% endif %}
 
-{% assign post_pages = site.resources  %}
+{% assign post_pages = site.eduresources  %}
 
 <div class="section strip-base">
   <div class="container">
@@ -65,16 +65,16 @@ hero:
     <div class="row">
       <div class="col-12 col-lg-8">
         <div class="row">
-          {% for post in paginator.posts %}
+          {% for eduresource in paginator.eduresources %}
             <div class="col-12 mb-3 mb-md-9">
               {% include theme/cards/card-posts.html
                 style="row"
-                date=post.date
-                title=post.title
-                description=post.description 
-                thumbnail=post.thumbnail 
-                url=post.url
-                categories=post.categories
+                date=eduresource.date
+                title=eduresource.title
+                description=eduresource.description 
+                thumbnail=eduresource.thumbnail 
+                url=eduresource.url
+                categories=eduresource.categories
                 show_read_more=false
               %}
             </div>
