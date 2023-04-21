@@ -64,7 +64,7 @@ defaults:
       permalink: /:basename/
   - scope:
       path: ""
-      type: news
+      type: resources
     values:
       layout: post
       weight: 999
