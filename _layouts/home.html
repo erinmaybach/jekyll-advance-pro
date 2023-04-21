@@ -46,6 +46,21 @@ body_classes: page-home
   </div>
 {% endif %}
 
+{% if page.resources.enabled %}
+  <div class="section">
+    <div class="container">
+      {% include framework/blocks/sections/info.html
+      heading=page.resources.heading
+      sub_heading=page.resources.sub_heading
+      align=page.resources.align
+      features=page.resources.features
+      buttons=page.resources.buttons
+      image=page.resources.image
+      %}
+    </div>
+  </div>
+{% endif %}
+
 {% assign cards = site.services | sort: 'date' | reverse %}
 {% assign limit = page.services.limit | default: 3 %}
 {% assign sort_by = page.services.sort | default: 'date' %}
