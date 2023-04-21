@@ -16,6 +16,7 @@ plugins:
 paginate: 6
 paginate_path: "/blog/page/:num"
 paginate_path: "/resources/page/:num"
+paginate_path: "/literature/page/:num"
 
 collections:
   services:
@@ -33,6 +34,9 @@ collections:
   tools:
     output: true
     permalink: /resources/:path/
+  papers:
+    output: true
+    permalink: /literature/:path/
 
 defaults:
   - scope:
@@ -54,6 +58,12 @@ defaults:
   - scope:
       path: ""
       type: tools
+    values:
+      layout: post
+      weight: 999
+  - scope:
+      path: ""
+      type: papers
     values:
       layout: post
       weight: 999
