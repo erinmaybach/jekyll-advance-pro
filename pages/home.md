@@ -177,7 +177,7 @@ ambassador:
         style: "primary"
 
 services:
-  enabled: true
+  enabled: false
   heading: "Our Services"
   sub_heading: ""
   limit: 6
@@ -191,7 +191,7 @@ partners:
   sort: "weight" # 'date'
 
 projects:
-  enabled: true
+  enabled: false
   heading: "Our Projects"
   sub_heading: ""
   limit: 2
@@ -201,7 +201,7 @@ projects:
   view_more_button_link: "/projects"
 
 outro:
-  enabled: true
+  enabled: false
   align: center
   image: false
   heading: Get Started Today
@@ -220,7 +220,7 @@ outro:
         size: "large"
 
 posts:
-  enabled: true
+  enabled: false
   heading: "Latest Posts"
   sub_heading: ""
   limit: 3
