@@ -91,6 +91,21 @@ body_classes: page-home
   </div>
 {% endif %}
 
+{% if page.ambassador.enabled %}
+  <div class="section">
+    <div class="container">
+      {% include framework/blocks/sections/info.html
+      heading=page.ambassador.heading
+      sub_heading=page.ambassador.sub_heading
+      align=page.ambassador.align
+      features=page.ambassador.features
+      buttons=page.ambassador.buttons
+      image=page.ambassador.image
+      %}
+    </div>
+  </div>
+{% endif %}
+
 {% assign cards = site.services | sort: 'date' | reverse %}
 {% assign limit = page.services.limit | default: 3 %}
 {% assign sort_by = page.services.sort | default: 'date' %}
