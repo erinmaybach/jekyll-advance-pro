@@ -5,14 +5,14 @@ main:
   - name: Resources
     url: /resources/
     weight: 1
-  - name: Advice
+  - name: Expert Advice
     url: /advice/
     weight: 2
-  - name: Lit Corner
+  - name: Literature Corner
     url: /literature/
     weight: 4
   - name: Ambassadors
-    url: /ambassadors/
+    url: /ambassador/
     weight: 5
   - name: About
     url: /about/
@@ -24,14 +24,14 @@ footer_primary:
   - name: Resources
     url: /resources/
     weight: 1
-  - name: Advice
+  - name: Expert Advice
     url: /advice/
     weight: 2
-  - name: Lit Corner
+  - name: Literature Corner
     url: /literature/
     weight: 4
   - name: Ambassadors
-    url: /ambassadors/
+    url: /ambassador/
     weight: 5
   - name: About
     url: /about/
