@@ -85,7 +85,7 @@ resources:
     enabled: true
     list:
       - text: "Go"
-        url: "/resources"
+        url: "/resources/"
         external: false
         fa_icon: ""
         size: large
