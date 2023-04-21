@@ -29,7 +29,7 @@ collections:
   posts:
     output: true
     permalink: /blog/:path/
-  resources:
+  eduresources:
     output: true
     permalink: /resources/:path/
 
@@ -64,7 +64,7 @@ defaults:
       permalink: /:basename/
   - scope:
       path: ""
-      type: resources
+      type: eduresources
     values:
       layout: post
       weight: 999
