@@ -30,7 +30,7 @@ collections:
   posts:
     output: true
     permalink: /blog/:path/
-  eduresources:
+  tools:
     output: true
     permalink: /resources/:path/
 
@@ -52,6 +52,12 @@ defaults:
       layout: post
       weight: 999
   - scope:
+      path: ""
+      type: tool
+    values:
+      layout: post
+      weight: 999
+  - scope:
       path: "images"
     values:
       image: true
@@ -63,12 +69,6 @@ defaults:
       path: "pages"
     values:
       permalink: /:basename/
-  - scope:
-      path: ""
-      type: eduresources
-    values:
-      layout: post
-      weight: 999
 
 # SCSS
 sass:
