@@ -1,7 +1,7 @@
 ---
 ---
 // Lightmode colors
-$primary: {{ site.colors.primary | default: '#EC255A' }};
+$primary: {{ site.colors.primary | default: '#ec255a' }};
 $primary-2: {{ site.colors.primary_2 | default: '#efc0cc' }};
 $primary-text: {{ site.colors.primary_text | default: '#f9fafb' }};
 $secondary: {{ site.colors.secondary | default: '#f9fafb' }};
