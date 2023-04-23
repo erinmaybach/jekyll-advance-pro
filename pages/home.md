@@ -8,13 +8,13 @@ meta_title: BioInform
 
 hero:
   enabled: true
-  heading: "BioInform"
-  sub_heading: "Fostering interdisciplinary collaboration through the lens of bioinformatis."
+  heading: "Bio/nform"
+  sub_heading: "Fostering interdisciplinary collaboration through the lens of bioinformatics."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-1-large.webp"
-  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  background_image: "/assets/images/gen/home/home-2-large.webp"
+  background_image_blend_mode: false
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: "660px"
