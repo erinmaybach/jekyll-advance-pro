@@ -39,7 +39,7 @@ hero:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-6-thumbnail.webp"
+  image: "/assets/images/gen/content/content-1-thumbnail.webp"
   heading: "We've helped hundreds of people grow their business online."
   sub_heading: ""
   features:
