@@ -67,7 +67,7 @@ intro:
 resources:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-6-thumbnail.webp"
+  image: "/assets/images/gen/content/content-2-thumbnail.webp"
   heading: "Educational Resources"
   sub_heading: ""
   features:
@@ -95,7 +95,7 @@ resources:
 literature:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-6-thumbnail.webp"
+  image: "/assets/images/gen/content/content-3-thumbnail.webp"
   heading: "Literature Corner"
   sub_heading: ""
   features:
@@ -123,7 +123,7 @@ literature:
 advice:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-6-thumbnail.webp"
+  image: "/assets/images/gen/content/content-4-thumbnail.webp"
   heading: "Expert Advice"
   sub_heading: ""
   features:
@@ -151,7 +151,7 @@ advice:
 ambassador:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-6-thumbnail.webp"
+  image: "/assets/images/gen/content/content-5-thumbnail.webp"
   heading: "Ambassador Program"
   sub_heading: ""
   features:
