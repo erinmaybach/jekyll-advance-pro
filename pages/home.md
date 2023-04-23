@@ -3,7 +3,7 @@ layout: home
 permalink: "/"
 title: "BioInform"
 description: "Connect.Collaborate.Compute."
-header_transparent: true
+header_transparent: false
 meta_title: BioInform
 
 hero:
@@ -97,7 +97,7 @@ literature:
   align: left
   image: "/assets/images/gen/content/content-3-thumbnail.webp"
   heading: "Literature Corner"
-  sub_heading: "Learn about the vast world of bioinformatics through curated literature selection covering:""
+  sub_heading: "Learn about the vast world of bioinformatics through curated literature selection covering:"
   features:
     enabled: true
     list:
