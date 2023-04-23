@@ -9,8 +9,8 @@ meta_title: BioInform
 hero:
   enabled: true
   heading: "Bio/nform"
-  sub_heading: "Fostering interdisciplinary collaboration through the lens of bioinformatics."
-  text_color: "#FFFFFF"
+  sub_heading: "Connect. Collaborate. Compute."
+  text_color: "#253e42"
   background_color: "#1d2830"
   background_gradient: true
   background_image: "/assets/images/gen/home/home-2-large.webp"
@@ -40,18 +40,18 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-1-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
+  heading: "Fostering interdisciplinary collaboration and STEM education through the lense of bioinformatics"
   sub_heading: ""
   features:
     enabled: true
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "Curated resources for learning and teaching bioinformatics."
         fa_icon: "fas fa-angle-right"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "Insight from experts, profesisonals, and students all using bioinformatics in their careers."
         fa_icon: "fas fa-angle-right"
-      - text: "Fully responsive and SEO optimised."
+      - text: "Explore current literature where bioinformatics is used across disciplines."
         fa_icon: "fas fa-angle-right"
-      - text: "Multiple content types including services, projects, blog and more."
+      - text: "Go beyond the website to connect with local communities."
         fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
@@ -73,13 +73,13 @@ resources:
   features:
     enabled: true
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "Resources for every skill level."
         fa_icon: "fas fa-angle-right"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "Learn the basics or sharpen a specific skill."
         fa_icon: "fas fa-angle-right"
-      - text: "Fully responsive and SEO optimised."
+      - text: "Find what you need without the open-access-overwhelm."
         fa_icon: "fas fa-angle-right"
-      - text: "Multiple content types including services, projects, blog and more."
+      - text: "Curated resource selection with reviews and summaries."
         fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
@@ -97,17 +97,17 @@ literature:
   align: left
   image: "/assets/images/gen/content/content-3-thumbnail.webp"
   heading: "Literature Corner"
-  sub_heading: ""
+  sub_heading: "Learn about the vast world of bioinformatics through curated literature selection covering:""
   features:
     enabled: true
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "Medicine"
         fa_icon: "fas fa-angle-right"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "Environmental Science"
         fa_icon: "fas fa-angle-right"
-      - text: "Fully responsive and SEO optimised."
+      - text: "Evolutionary Genomics"
         fa_icon: "fas fa-angle-right"
-      - text: "Multiple content types including services, projects, blog and more."
+      - text: "Methods"
         fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
@@ -125,17 +125,17 @@ advice:
   align: left
   image: "/assets/images/gen/content/content-4-thumbnail.webp"
   heading: "Expert Advice"
-  sub_heading: ""
+  sub_heading: "Get valuable insight and advice from"
   features:
     enabled: true
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "Pioneering minds in bioinformatics"
         fa_icon: "fas fa-angle-right"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "Professionals using bioinformatics beyond academia"
         fa_icon: "fas fa-angle-right"
-      - text: "Fully responsive and SEO optimised."
+      - text: "Students"
         fa_icon: "fas fa-angle-right"
-      - text: "Multiple content types including services, projects, blog and more."
+      - text: "And more"
         fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
@@ -153,9 +153,9 @@ ambassador:
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
   heading: "Ambassador Program"
-  sub_heading: ""
+  sub_heading: "Go beyond the website to connect with local institutions"
   features:
-    enabled: true
+    enabled: false
     list:
       - text: "Configure the homepage sections in front-matter."
         fa_icon: "fas fa-angle-right"
