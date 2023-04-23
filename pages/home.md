@@ -8,7 +8,7 @@ meta_title: BioInform
 
 hero:
   enabled: true
-  heading: "Bio/nform"
+  heading: "BioInform"
   sub_heading: "Connect. Collaborate. Compute."
   text_color: "#253e42"
   background_color: "#1d2830"
