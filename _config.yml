@@ -115,22 +115,22 @@ colors:
   primary_2: "#424ff8"
   primary_text: "#fdfcf9"
   secondary: "#702bf7"
-  background: "#ffffff"
-  background_2: "#f8f9ff"
-  background_3: "#eef2f9"
-  text: "#0d042b"
-  text_2: "#3b364c"
+  background: "#baefc7"
+  background_2: "#84c293"
+  background_3: "#ddfee5"
+  text: "#253e42"
+  text_2: "#345c62"
 
   # dark-mode colors
   primary_dark: "#4486f2"
   primary_2_dark: "#2f74e5"
   primary_text_dark: "#fdfcf9"
   secondary_dark: "#8215cb"
-  background_dark: "#0f0f10"
-  background_2_dark: "#1a191c"
-  background_3_dark: "#222124"
-  text_dark: "#f5f5ec"
-  text_2_dark: "#b6c3d6"
+  background_dark: "#253e42"
+  background_2_dark: "#345c62"
+  background_3_dark: "#3a6770"
+  text_dark: "#baefc7"
+  text_2_dark: "#84c293"
 
 
 fonts:
