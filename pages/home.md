@@ -46,13 +46,13 @@ intro:
     enabled: true
     list:
       - text: "Configure the homepage sections in front-matter."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "An advanced hero image section with dozens of design options."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Fully responsive and SEO optimised."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Multiple content types including services, projects, blog and more."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
     list:
@@ -74,13 +74,13 @@ resources:
     enabled: true
     list:
       - text: "Configure the homepage sections in front-matter."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "An advanced hero image section with dozens of design options."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Fully responsive and SEO optimised."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Multiple content types including services, projects, blog and more."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
     list:
@@ -102,13 +102,13 @@ literature:
     enabled: true
     list:
       - text: "Configure the homepage sections in front-matter."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "An advanced hero image section with dozens of design options."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Fully responsive and SEO optimised."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Multiple content types including services, projects, blog and more."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
     list:
@@ -130,13 +130,13 @@ advice:
     enabled: true
     list:
       - text: "Configure the homepage sections in front-matter."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "An advanced hero image section with dozens of design options."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Fully responsive and SEO optimised."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Multiple content types including services, projects, blog and more."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
     list:
@@ -158,13 +158,13 @@ ambassador:
     enabled: true
     list:
       - text: "Configure the homepage sections in front-matter."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "An advanced hero image section with dozens of design options."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Fully responsive and SEO optimised."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
       - text: "Multiple content types including services, projects, blog and more."
-        fa_icon: "fas fa-check"
+        fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
     list:
