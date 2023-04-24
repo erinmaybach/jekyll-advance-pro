@@ -201,11 +201,11 @@ projects:
   view_more_button_link: "/projects"
 
 outro:
-  enabled: false
+  enabled: true
   align: center
   image: false
-  heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  heading: "Bio/nform is an MBL ROC's Project" 
+  sub_heading: "We are sponsored by the Marine Biological Laboratory's ROC's Award funding Alumni of the Advanced Research Training Courses. BioInform's mission is to extend the collaborative environment at the MBL to the global community."
   features:
     enabled: false
     list:
@@ -214,9 +214,9 @@ outro:
   buttons:
     enabled: true
     list:
-      - text: "Contact Us"
-        url: "/contact"
-        external: false
+      - text: "More MBL"
+        url: "https://www.mbl.edu/"
+        external: true
         size: "large"
 
 posts:
