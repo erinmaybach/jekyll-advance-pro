@@ -186,7 +186,7 @@ services:
   view_more_button_link: "/services"
 
 partners:
-  enabled: true
+  enabled: false
   limit: 5
   sort: "weight" # 'date'
 
@@ -204,8 +204,8 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: "Bio/nform is an MBL ROC's Project" 
-  sub_heading: "We are sponsored by the Marine Biological Laboratory's ROC's Award funding Alumni of the Advanced Research Training Courses. BioInform's mission is to extend the collaborative environment at the MBL to the global community."
+  heading: "Bio/nform is an MBL Alumni ROC's Project" 
+  sub_heading: "We are sponsored by the Marine Biological Laboratory's Alumni ROC's Award. BioInform's mission is to extend the collaborative environment of the MBL to the global community."
   features:
     enabled: false
     list:
