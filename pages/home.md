@@ -40,23 +40,23 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-1-thumbnail.webp"
-  heading: "Fostering interdisciplinary collaboration and STEM education through the lense of bioinformatics"
-  sub_heading: ""
+  heading: "Welcome!"
+  sub_heading: "We are BioInform, a community platform passionate about interdisciplinary collaboration and and promoting STEM education through the lens of bioinformatics. Our website features:"
   features:
     enabled: true
     list:
-      - text: "Curated resources for learning and teaching bioinformatics."
+      - text: "A curated collection of educational resources"
         fa_icon: "fas fa-angle-right"
       - text: "Insight from experts, profesisonals, and students all using bioinformatics in their careers."
         fa_icon: "fas fa-angle-right"
-      - text: "Explore current literature where bioinformatics is used across disciplines."
+      - text: "Featured published literature highlighting bioinformatics across scientific fields"
         fa_icon: "fas fa-angle-right"
-      - text: "Go beyond the website to connect with local communities."
+      - text: "Access and information on our in-person Ambassador Program"
         fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
     list:
-      - text: "About Us"
+      - text: "Learn more about us"
         url: "/about"
         external: false
         fa_icon: ""
@@ -75,16 +75,16 @@ resources:
     list:
       - text: "Resources for every skill level."
         fa_icon: "fas fa-angle-right"
-      - text: "Learn the basics or sharpen a specific skill."
+      - text: "Free learning tools"
         fa_icon: "fas fa-angle-right"
-      - text: "Find what you need without the open-access-overwhelm."
+      - text: "Reviews and summaries about each resource"
         fa_icon: "fas fa-angle-right"
-      - text: "Curated resource selection with reviews and summaries."
+      - text: "Helping you to reduce open-access-overwhelm"
         fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
     list:
-      - text: "Go"
+      - text: "Go to Educational Resources"
         url: "/resources/"
         external: false
         fa_icon: ""
@@ -107,7 +107,7 @@ literature:
         fa_icon: "fas fa-angle-right"
       - text: "Evolutionary Genomics"
         fa_icon: "fas fa-angle-right"
-      - text: "Methods"
+      - text: "And much more"
         fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
@@ -125,22 +125,22 @@ advice:
   align: left
   image: "/assets/images/gen/content/content-4-thumbnail.webp"
   heading: "Expert Advice"
-  sub_heading: "Get valuable insight and advice from"
+  sub_heading: "Get advice from professionals, experts, and students in the field of bioinformatics."
   features:
     enabled: true
     list:
-      - text: "Pioneering minds in bioinformatics"
+      - text: "Advice from pioneering minds in bioinformatics"
         fa_icon: "fas fa-angle-right"
-      - text: "Professionals using bioinformatics beyond academia"
+      - text: "Discover careers in bioinformatics"
         fa_icon: "fas fa-angle-right"
-      - text: "Students"
+      - text: "Connect with students"
         fa_icon: "fas fa-angle-right"
-      - text: "And more"
+      - text: "Real world applications of bioinformatics"
         fa_icon: "fas fa-angle-right"
   buttons:
     enabled: true
     list:
-      - text: "Go"
+      - text: "Go to Expert Advice"
         url: "/advice/"
         external: false
         fa_icon: ""
@@ -153,13 +153,13 @@ ambassador:
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
   heading: "Ambassador Program"
-  sub_heading: "Go beyond the website to connect with local institutions"
+  sub_heading: "Expand your network and passion for bioinformatics beyond the website and connect with local institutions"
   features:
     enabled: false
     list:
-      - text: "Configure the homepage sections in front-matter."
+      - text: "From Online to IRL, learn more about joining the BioInform Ambassador program"
         fa_icon: "fas fa-angle-right"
-      - text: "An advanced hero image section with dozens of design options."
+      - text: "."
         fa_icon: "fas fa-angle-right"
       - text: "Fully responsive and SEO optimised."
         fa_icon: "fas fa-angle-right"
@@ -204,8 +204,8 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: "Bio/nform is an MBL Alumni ROC's Project" 
-  sub_heading: "We are sponsored by the Marine Biological Laboratory's Alumni ROC's Award. BioInform's mission is to extend the collaborative environment of the MBL to the global community."
+  heading: "Bio/nform is proud to be an MBL Alumni ROC's Project" 
+  sub_heading: "We are sponsored by the University of Chicago Marine Biological Laboratory's Alumni ROC's Award. BioInform's mission is to extend the collaborative environment of the MBL to the global community."
   features:
     enabled: false
     list:
