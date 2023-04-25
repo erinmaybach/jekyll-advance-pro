@@ -17,4 +17,4 @@ image: "/assets/images/gen/blog/blog-1.webp"
 
 ## Summary ##
 
-Happy Belly Bioinformatics is one of my all time favorite resources. Even after discovering it a year ago I still find myself going back to this resource anytime I need a refresher on my foundational skills. 
+Happy Belly Bioinformatics is one of my all time favorite resources. I came across it a year ago and always come back to it when I'm stuck on a compuational challengee.  
