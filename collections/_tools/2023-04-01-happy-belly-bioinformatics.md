@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Happy Belly BioInformatics"
-date: 2023-04-01:22:42Z
-authors: false
+date: 2023-04-01T09:00:00-05:00
+authors: ""
 categories: ["Beginner", "Tutorial", "Genomics", "Unix", "R"]
 description: "One of the best resources for the beginner bioinformatician."
 thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
