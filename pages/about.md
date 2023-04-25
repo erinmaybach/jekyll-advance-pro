@@ -25,4 +25,4 @@ hero:
 ---
 # This webpage is in developper mode
 
-We promise goo dthings are coming:)
+We promise good things are coming:)
