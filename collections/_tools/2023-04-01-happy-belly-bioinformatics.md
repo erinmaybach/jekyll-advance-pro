@@ -2,9 +2,9 @@
 layout: post
 title: "Happy Belly BioInformatics"
 date: 2023-04-01T09:00:00-05:00
-authors: ["Erin"]
+authors: ["Erin Maybach"]
 categories: ["Beginner", "Tutorial", "Genomics", "Unix", "R"]
-description: "One of the best resources for the beginner bioinformatician."
+description: "The swiss army knife of bioinformatics resources."
 thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-1.webp"
 ---
@@ -21,4 +21,8 @@ Anyone with a basic understanding of biology interested in the fundementals of b
 
 ## Summary ##
 
-Happy Belly Bioinformatics is one of my all time favorite resources. I came across it a year ago and always come back to it when I'm stuck on a compuational challengee.  
+Happy Belly Bioinformatics is a valuable and comprehensive resource that I always find myself coming back to. Happy Belly Bioinformatics provides a holistic overview of bioinformatics while also offering detailed computational tutorials in Unix and R. Through helpful visuals (like the metagenomics workflow attached here) and clear explanations, Happy Belly does an excellent job of connecting all the pieces and illuminating the grand scheme of bioinformatics. Happy Belly provides easy-to-understand breakdowns of central themes within genomics and bioinformatics ranging from “genomes” to “binning” and everything in between. 
+
+# TLDR;
+Happy Belly’s comprehensive visuals and tutorials on metagenomic and amplicon analysis in Unix and R make it an excellent tool for beginners and advanced users alike.
+
