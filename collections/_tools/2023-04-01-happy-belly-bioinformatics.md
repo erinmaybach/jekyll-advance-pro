@@ -2,18 +2,22 @@
 layout: post
 title: "Happy Belly BioInformatics"
 date: 2023-04-01T09:00:00-05:00
-authors: ""
+authors: ["Erin"]
 categories: ["Beginner", "Tutorial", "Genomics", "Unix", "R"]
 description: "One of the best resources for the beginner bioinformatician."
 thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-1.webp"
 ---
 
-## Link ## [Visit Happy Belly Bioinformtics](https://astrobiomike.github.io/){: .btn}
+## Link [Click Here to Access Happy Belly Bioinformatics](https://astrobiomike.github.io/){: .btn}
 
-## Skill Level: ## Beginner
+## Skill Level
 
-## Best For: ## Anyone with a basic understanding of biology interested in the fundementals of bioinformatics. 
+Beginner
+
+## Best For
+
+Anyone with a basic understanding of biology interested in the fundementals of bioinformatics. 
 
 ## Summary ##
 
