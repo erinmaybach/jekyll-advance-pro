@@ -6,14 +6,8 @@ description: "Environmental Scientist and Founder of BioInform"
 thumbnail: "/assets/images/team/erin-maybach.jpg"
 image: "/assets/images/team/erin-maybach.jpg"
 jobtitle: "Founder"
-links: false
-  - url: "https://www.linkedin.com"
+links: 
+  - url: "https://www.linkedin.com/in/erinmaybach"
     label: LinkedIn
     icon: "fab fa-linkedin"
-  - url: "#"
-    label: Google +
-    icon: "fab fa-google-plus-g"
-  - url: "https://www.medium.com"
-    label: Medium
-    icon: "fab fa-medium"
 ---
