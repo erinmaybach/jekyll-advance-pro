@@ -17,13 +17,32 @@ hero:
   buttons:
     enabled: true
     list:
-      - text: "Take Me Home"
-        url: "/"
+      - text: "Ambassador Application"
+        url: "/contact"
         external: false
         fa_icon: false
         size: large
 ---
 
-# This webpage is currently in developper mode
+# What is the BioInform Ambassador Program?
 
-We promise good things are coming:)
+The BioInform Ambassador Program expands outreach and shares a passion for collaboration and open-access education. Ambassadors engage with local communities and institutions to extend BioInform's mission.
+
+# What do Ambassadors do?
+
+- Host interdepartmental working groups and mixers at your home institution, bringing together brilliant minds from diverse fields to exchange ideas and spark new collaborations.
+- Lead dynamic and thought-provoking discussions within your department, fostering a culture of interdisciplinary collaboration and innovation.
+- Work with local community programs to incorporate themes of collaboration into their events, inspiring the next generation of STEM leaders to think outside the box and tackle complex challenges together.
+- Attend virtual BioInform meetings, where you'll connect with like-minded individuals from around the world and explore cutting-edge developments in the field of bioinformatics.
+- Contribute your unique perspectives and insights to the BioInform website, helping to grow its mission of promoting open-access STEM education and interdisciplinary collaboration.
+
+# Who are Ambassadors?
+
+Individuals with a passion for science communication and motivation are encouraged to apply to become an ambassador, as there are no prerequisites!
+
+# Meet Our May Featured Ambassador 
+
+## Kate 
+
+**About Kate** Kate is a Project Coordinator in Nephrology at Columbia University’s Irvine Medical Campus where she works with Maya Sabatello in the Psychology Department. Her department’s research investigates bioethics in precision medicine, and Kate is excited about BioInform’s mission to enhance interdisciplinary collaboration across biomedical fields. We are happy to have her!
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-2.webp" %}
