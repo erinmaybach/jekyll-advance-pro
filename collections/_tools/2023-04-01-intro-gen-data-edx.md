@@ -4,13 +4,14 @@ title: "edx: Introduction to Genomic Data Science"
 date: 2023-04-01T09:00:00-05:00
 authors: ["Erin Maybach"]
 categories: ["Beginner", "Course", "Python", "Genomics"]
-description: "An indepth beginner bioinfromatics course with incredible professors"
+description: "An indepth bioinfomatics course for beginners"
 thumbnail: "/assets/images/gen/blog/introedx-thumbnail.webp"
 image: "/assets/images/gen/blog/introedx-thumbnail.webp"
 ---
 
-## Link [Click Here to Access edx: Introduction to Genomic Data Science](https://www.edx.org/course/introduction-to-genomic-data-science?index=product&queryID=ebb88d3b6992238550494ef4d6e6eb18&position=1&search_index=product&results_level=first-level-results&term=bioinformatics&campaign=Introduction+to+Genomic+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
-){: .btn}
+## Link 
+
+[Click Here to Access edx: Introduction to Genomic Data Science](https://www.edx.org/course/introduction-to-genomic-data-science?index=product&queryID=ebb88d3b6992238550494ef4d6e6eb18&position=1&search_index=product&results_level=first-level-results&term=bioinformatics&campaign=Introduction+to+Genomic+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch){: .btn}
 
 ## Skill Level
 
