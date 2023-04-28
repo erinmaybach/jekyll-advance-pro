@@ -1,0 +1,40 @@
+I"Q<h2 id="link-click-here-to-access-happy-belly-bioinformatics">Link <a href="https://benjjneb.github.io/dada2/tutorial.html" class="btn">Click Here to Access Happy Belly Bioinformatics</a></h2>
+
+<h2 id="skill-level">Skill Level</h2>
+
+<p>Intermediate</p>
+
+<h2 id="best-for">Best For</h2>
+
+<p>Anyone with demultiplexed Illumina-sequenced paired-end fastq files looking to start analysis.</p>
+
+<h2 id="summary">Summary</h2>
+
+<hr />
+<p>layout: post
+title: “DADA2 Tutorial”
+date: 2023-03-15T09:00:00-05:00
+authors: [“Erin Maybach”]
+categories: [“Analysis”, “Tutorial”, “R”]
+description: “Transform your amplicon data into high quality feature tables.”
+thumbnail: “/assets/images/gen/blog/dada2-thumbnail.webp”
+image: “/assets/images/gen/blog/dada2-thumbnail.webp”
+—</p>
+
+<h2 id="link-click-here-to-access-the-dada2-tuorial">Link <a href="https://benjjneb.github.io/dada2/tutorial.html" class="btn">Click Here to Access the DADA2 Tuorial</a></h2>
+
+<h2 id="skill-level-1">Skill Level</h2>
+
+<p>Intermediate</p>
+
+<h2 id="best-for-1">Best For</h2>
+
+<p>Anyone with Illumina-sequenced paired-end fastq file data looking to begin analysis.</p>
+
+<h2 id="summary-1">Summary</h2>
+
+<p>It’s not surprising that DADA2 has excellent tutorials, considering that its creator, Ben Callahan, is a fantastic teacher. DADA2 is a bioinformatics pipeline that accurately analyzes amplicon data and generates high-quality feature tables. This tutorial provides a comprehensive overview of the steps involved in DADA2 analysis, from quality control to accuracy evaluation. It’s an ideal resource for individuals seeking to comprehend the essential steps involved in initial genomic analysis.</p>
+
+<h1 id="tldr">TLDR;</h1>
+<p>DADA2 Tutorials pull back the curtain on bioinformatics analysis and give you confidence and control in your feature table compositions.</p>
+:ET
