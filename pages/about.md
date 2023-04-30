@@ -4,7 +4,7 @@ title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
-description: "BioInform's Mission"
+description: ""
 image: false
 
 hero:
@@ -15,7 +15,7 @@ hero:
   background_image_blend_mode: false
   full_height_mobile: false
   buttons:
-    enabled: falsee
+    enabled: false
     list:
       - text: "Go Home"
         url: "/"
@@ -44,9 +44,9 @@ BioInform supports its central values of collaboration and education through the
 
 # Our Story
 
-> “While attending the “Strategies and Techniques for Analyzing Microbial Population Structures” Advanced Research Training Course at the University of Chicago Marine Biological Laboratory, I was amazed at the diversity of disciplines my represented within my cohort. Bioinformatics was the common thread uniting our research from medicine to marine biology and everything in between. Throughout the course, we all worked together to tackle challenges in our own and eachothers research.
+> “While attending the “Strategies and Techniques for Analyzing Microbial Population Structures” Advanced Research Training Course at the University of Chicago Marine Biological Laboratory, I was amazed at the diversity of disciplines my represented within my cohort. Bioinformatics was the common thread uniting our research from medicine to marine biology and everything in between. Throughout the course, we all worked together to tackle challenges in our own and eachothers research.”
 
-After returning home to New York, I was excited to share my collaborative experience at the MBL. I wished everyone could access such a wealth of knowledge and a synergetic atmosphere. This sparked my idea to create BioInform, a platform to bridge the gap in communication between researchers in diverse fields. With support from the MBL Alumni ROCs Award, I was able to bring my vision to life.”
+>“After returning home to New York, I was excited to share my collaborative experience at the MBL. I wished everyone could access such a wealth of knowledge and a synergetic atmosphere. This sparked my idea to create BioInform, a platform to bridge the gap in communication between researchers in diverse fields. With support from the MBL Alumni ROCs Award, I was able to bring my vision to life.”
 
 - Erin Maybach, Founder of BioInform
 
