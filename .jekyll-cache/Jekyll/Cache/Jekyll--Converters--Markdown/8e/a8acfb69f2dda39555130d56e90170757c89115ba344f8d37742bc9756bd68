@@ -1,0 +1,40 @@
+I"�<h2 id="name">Name</h2>
+<p>Dean Bobo</p>
+
+<h2 id="title-and-affiliation">Title and affiliation</h2>
+<p>Ph.D. at Columbia University</p>
+
+<h2 id="years-of-bioinformatics-experience">Years of bioinformatics experience</h2>
+<p>10</p>
+
+<h2 id="field-of-research">Field of research</h2>
+<p>Ecology and Environmental Biology</p>
+
+<h2 id="what-attracted-you-to-pursuing-a-career-in-bioinformatics">What attracted you to pursuing a career in bioinformatics?</h2>
+<p>I really loved studying biology as an undergrad. But I also really loved working on computers and learning computer programming languages (and web development). My cell and molecular biology professor suggested that I take a bioinformatics class and it was really all downhill from there. I then applied for a REU program in bioinformatics. One summer working on a bioinformatics project and I was hooked.</p>
+
+<h2 id="how-does-bioinformatics-serve-as-a-unifying-element-across-different-scientific-fields">How does bioinformatics serve as a unifying element across different scientific fields?</h2>
+<p>I consider the field of bioinformatics to be the use of computer science to answer complex biological questions. This means that any question that can be answered or interrogated with molecular data might involve bioinformatics. That is, evolutionary biology,  ecology, cell and molecular biology (genomics/proteomics), cancer biology, and many more can heavily rely on bioinformatics to answer questions. All of these fields draw upon computers and computer science to compare sequences or identify patterns in data.</p>
+
+<h2 id="in-what-ways-does-interdisciplinary-collaboration-in-bioinformatics-contribute-to-advancements-in-specific-fields">In what ways does interdisciplinary collaboration in bioinformatics contribute to advancements in specific fields?</h2>
+<p>Bioinformaticians are brought into projects spanning all the disciplines that I previously mentioned. As a bioinformatician, I might not have expertise in a field (e.g. cancer biology), but I can be a valuable member of a team asking questions about a disease. I can use my bioinformatics skillset to help a healthcare team determine which mutations in a genome are most likely to be implicated in a disease.</p>
+
+<h2 id="how-can-we-improve-collaboration-between-disciplines-where-bioinformatics-is-applied">How can we improve collaboration between disciplines where bioinformatics is applied?</h2>
+<p>I think most investigators that will use sequencing data should consult with a bioinformatician while planning a project. For example, many investigators think of genome sequencing as a “this will tell me everything I need to know” type of solution. But a sequenced genome of a non-model organism is almost useless on its own! (weird to hear it said like that, right?). A genome is a sequence of letters - but so what? What does it all mean? You will have to rely on other studies to understand it all. To best learn about the genes in an organism, you have to lift structural (where are the genes?) and functional (what does the gene do?) annotations from related organisms. On top of that, you might also consider RNA sequencing of the organism being studied to help identify/predict taxon-specific genes. Consulting with a bioinformatician before doing sequencing will help you plan and understand the power and limitations of sequencing.</p>
+
+<h2 id="what-excites-you-most-about-bioinformatics">What excites you most about bioinformatics?</h2>
+<p>I can answer SO MANY questions about the biodiversity in the world (past and present).  It also pays well and I can work from anywhere.</p>
+
+<h2 id="what-advice-would-you-give-to-someone-interested-in-pursuing-bioinformatics">What advice would you give to someone interested in pursuing bioinformatics?</h2>
+<p>Learn the Linux command line. and learn it well. As far as languages, R is the language I’d start with if I had to start over. I started with perl - which wasn’t a mistake, but R pays the bills. If you know Linux and R, you can do most of the things that you need to do in bioinformatics.</p>
+
+<h2 id="how-do-you-think-bioinformatics-could-become-more-accessible-in-public-discourse">How do you think bioinformatics could become more accessible in public discourse?</h2>
+<p>I think it actually is pretty accessible - most of the software, methods, data, and training that one might want is freely available online. Coursera and edX courses, youtube tutorials, and websites like Biostars, all put bioinformatics within reach for anyone willing to learn. As long as you have access to a computer and the internet, you can learn what you need to do bioinformatics. There are even resources like Open Science Grid that make it possible to harness the computational power high performance compute clusters to do highly parallelized computational work. In addition, the field has a custom of keeping our software and data open-source and freely available.</p>
+
+<h2 id="what-is-your-current-favorite-bioinformatics-program-or-software">What is your current favorite bioinformatics program or software?</h2>
+<p>bcftools</p>
+
+<h2 id="what-is-your-favorite-snack">What is your favorite snack?</h2>
+<p>I’m seriously not able to keep Oreos in stock in my house. especially mint flavor. YUM.</p>
+
+:ET

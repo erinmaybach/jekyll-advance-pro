@@ -70,6 +70,7 @@ hero:
             <div class="col-12 mb-3 mb-md-9">
               {% include theme/cards/card-posts.html
                 style="row"
+                date=quote.date
                 title=quote.title
                 description=quote.description 
                 thumbnail=quote.thumbnail 
@@ -79,7 +80,7 @@ hero:
             </div>
           {% endfor %}
         {% else %}
-          {% for quote in site.quote %}
+          {% for quote in site.quotes %}
             <div class="col-12 mb-3 mb-md-9">
               {% include theme/cards/card-posts.html
                 style="row"
