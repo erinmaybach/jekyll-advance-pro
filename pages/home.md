@@ -39,7 +39,7 @@ hero:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-1-thumbnail.webp"
+  image: <img src="/assets/images/gen/content/content-2-thumbnail.webp" alt="Image" width="360" height="360">
   heading: "Welcome!"
   sub_heading: "We are BioInform, a community platform passionate about interdisciplinary collaboration and and promoting STEM education through the lens of bioinformatics. Our website features:"
   features:
@@ -67,7 +67,7 @@ intro:
 resources:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-2-thumbnail.webp"
+  image: <img src="/assets/images/gen/content/content-2-thumbnail.webp" alt="Image" width="360" height="360">
   heading: "Educational Resources"
   sub_heading: ""
   features:
@@ -95,7 +95,7 @@ resources:
 literature:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-3-thumbnail.webp"
+  image: <img src="/assets/images/gen/content/content-3-thumbnail.webp alt="Image" width="360" height="360">"
   heading: "Literature Corner"
   sub_heading: "Learn about the vast world of bioinformatics through curated literature selection covering:"
   features:
@@ -123,7 +123,7 @@ literature:
 advice:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-4-thumbnail.webp"
+  image: <img src="/assets/images/gen/content/content-4-thumbnail.webp" alt="Image" width="360" height="360">
   heading: "Expert Advice"
   sub_heading: "Get advice from professionals, experts, and students in the field of bioinformatics."
   features:
@@ -151,7 +151,7 @@ advice:
 ambassador:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
+  image: <img src="/assets/images/gen/content/content-5-thumbnail.webp" alt="Image" width="360" height="360">
   heading: "Ambassador Program"
   sub_heading: "Expand your network and passion for bioinformatics beyond the website and connect with local institutions"
   features:
