@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Open-Source Toolkit To Expand Bioinformatics Training in Infectious Diseases"
-date: 2018-09-13T05:22:42Z
+date: 2023-04-10T05:22:42Z
 authors: false
 description: false
 thumbnail: "/assets/images/gen/literature/lit-3-thumbnail.webp"
