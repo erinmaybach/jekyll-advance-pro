@@ -40,7 +40,7 @@ The BioInform Ambassador Program expands outreach and shares a passion for colla
 
 Individuals with a passion for science communication and motivation are encouraged to apply to become an ambassador, as there are no prerequisites!
 
-# Meet Our May Featured Ambassador 
+# Meet Our Featured Ambassador 
 
 ## Kate 
 
