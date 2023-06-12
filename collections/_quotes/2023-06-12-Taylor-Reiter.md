@@ -17,7 +17,9 @@ Scientist at Arcadia Science
 9
 
 ## Fields of research
-Computational biology  Workflow automation  Metagenomics
+Computational biology  
+Workflow automation  
+Metagenomics
 
 ## How do you use bioinformatics in your research or profession?
 My entire scientific identity is founded on bioinformatics and computational biology – I spend almost all of my research time on computers.
