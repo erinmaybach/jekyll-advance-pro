@@ -1,0 +1,29 @@
+---
+layout: post
+title: "A bioinformatics approach to identify patients with symptomatic peanut allergy using peptide microarray immunoassay"
+date: 2023-05-25T05:22:42Z
+authors: false
+description: false
+thumbnail: "/assets/images/gen/literature/lit-7-thumbnail.webp"
+image: "/assets/images/gen/literature/lit-7.webp"
+---
+# Link to article
+[Click to Access](https://doi.org/10.1016/j.jaci.2012.02.012){: .btn}
+
+# Citation
+
+Lin, J., Bruni, F. M., Fu, Z., Maloney, J., Bardina, L., Boner, A. L., Gimenez, G., & Sampson, H. A. (2012). A bioinformatics approach to identify patients with symptomatic peanut allergy using peptide microarray immunoassay. Journal of Allergy and Clinical Immunology, 129(5), 1321-1328.e5. https://doi.org/10.1016/j.jaci.2012.02.012
+
+# Abstract
+
+> "Background
+Peanut allergy is relatively common, typically permanent, and often severe. Double-blind, placebo-controlled food challenge is considered the gold standard for the diagnosis of food allergy–related disorders. However, the complexity and potential of double-blind, placebo-controlled food challenge to cause life-threatening allergic reactions affects its clinical application. A laboratory test that could accurately diagnose symptomatic peanut allergy would greatly facilitate clinical practice.
+Objective
+We sought to develop an allergy diagnostic method that could correctly predict symptomatic peanut allergy by using peptide microarray immunoassays and bioinformatic methods.
+Methods
+Microarray immunoassays were performed by using the sera from 62 patients (31 with symptomatic peanut allergy and 31 who had outgrown their peanut allergy or were sensitized but were clinically tolerant to peanut). Specific IgE and IgG4 binding to 419 overlapping peptides (15 mers, 3 offset) covering the amino acid sequences of Ara h 1, Ara h 2, and Ara h 3 were measured by using a peptide microarray immunoassay. Bioinformatic methods were applied for data analysis.
+Results
+Individuals with peanut allergy showed significantly greater IgE binding and broader epitope diversity than did peanut-tolerant individuals. No significant difference in IgG4 binding was found between groups. By using machine learning methods, 4 peptide biomarkers were identified and prediction models that can predict the outcome of double-blind, placebo-controlled food challenges with high accuracy were developed by using a combination of the biomarkers.
+Conclusions
+In this study, we developed a novel diagnostic approach that can predict peanut allergy with high accuracy by combining the results of a peptide microarray immunoassay and bioinformatic methods. Further studies are needed to validate the efficacy of this assay in clinical practice."
+

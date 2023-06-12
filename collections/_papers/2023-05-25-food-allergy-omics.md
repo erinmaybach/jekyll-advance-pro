@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Advancing Food Allergy Through Omics Sciences"
+date: 2023-05-25T05:22:42Z
+authors: false
+description: false
+thumbnail: "/assets/images/gen/literature/lit-8-thumbnail.webp"
+image: "/assets/images/gen/literature/lit-8.webp"
+---
+# Link to article
+[Click to Access](https://doi.org/10.1016/j.jaip.2020.07.044){: .btn}
+
+# Citation
+
+Irizar, H., Kanchan, K., Mathias, R. A., & Bunyavanich, S. (2021). Advancing Food Allergy Through Omics Sciences. The Journal of Allergy and Clinical Immunology: In Practice, 9(1), 119–129. https://doi.org/10.1016/j.jaip.2020.07.044
+
+# Abstract
+
+> "Since the publication of the first draft of the human genome, there has been an explosion of new technologies with increasing power to interrogate the totality of biological molecules (eg, DNA, RNA, proteins, metabolites) and their modifications (eg, DNA methylation, histone modifications). These technologies, collectively called omics, have been widely applied in the last 2 decades to study biological systems to gain deeper insight into mechanisms driving the physiology and pathophysiology of human health and disease. Because of its complex, multifactorial nature, food allergy is especially well suited to be investigated using omics approaches. In this rostrum, we review how omic technologies have been applied to explore diverse aspects of food allergy, including adaptive and innate immune processes in food-allergic responses, the role of the microbiome in food allergy risk, metabolic changes in the gut and blood associated with food allergy, and the identification of biomarkers and potential therapeutic targets for the condition. We discuss the strengths and limitations of the studies performed thus far and the need to adopt systems biology approaches that integrate data from multiple omics to fully leverage the potential of these technologies to advance food allergy research and care."
+
