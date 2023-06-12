@@ -112,7 +112,7 @@ literature:
   buttons:
     enabled: true
     list:
-      - text: "Go"
+      - text: "Go to Literature Corner"
         url: "/literature/"
         external: false
         fa_icon: ""
@@ -168,7 +168,7 @@ ambassador:
   buttons:
     enabled: true
     list:
-      - text: "Go"
+      - text: "Go to Ambassador Program"
         url: "/ambassador"
         external: false
         fa_icon: ""
