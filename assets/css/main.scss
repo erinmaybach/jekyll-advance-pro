@@ -75,4 +75,9 @@ html[data-mode='dark'] {
   }
 }
 
+.custom-image {
+  width: 400px; /* Adjust the width as needed */
+  height: auto; /* Adjust the height proportionally based on the width */
+}
+
 @import 'style';
