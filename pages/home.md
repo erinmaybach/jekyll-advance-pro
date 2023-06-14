@@ -39,8 +39,7 @@ hero:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-1-thumbnail.webp"
-  image_size: "360x360"
+  image: <img src="/assets/images/gen/content/content-1-thumbnail.webp" class="custom-image">
   heading: "Welcome!"
   sub_heading: "We are BioInform, a community platform passionate about interdisciplinary collaboration and and promoting STEM education through the lens of bioinformatics. Our website features:"
   features:
