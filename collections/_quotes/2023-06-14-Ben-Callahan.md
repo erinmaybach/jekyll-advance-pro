@@ -14,7 +14,12 @@ Associate Professor of Microbiomes and Complex Microbial Communities in the Popu
 10
 
 ## Fields of research
-Microbiology  Population genetics  Statistics  Mathematics  Computer science  Physics
+Microbiology<br>
+Population genetics<br>
+Statistics<br>
+Mathematics<br>
+Computer science<br>
+Physics
 
 ## How did you enter a career in bioinformatics?
 I did not come from a bioinformatics background, so it was something that I had to learn. My Ph.D. was in physics, and I was working in evolutionary modeling. I started doing [bioinformatics] as a postdoc, so it's been about 10 years. 
