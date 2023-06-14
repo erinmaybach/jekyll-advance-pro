@@ -7,9 +7,6 @@ description: ""
 thumbnail: "/assets/images/gen/content/ben-thumbnail.webp"
 image: "/assets/images/gen/content/ben.webp"
 ---
-## Name
-Benjamin Callahan
-
 ## Title and affiliation
 Associate Professor of Microbiomes and Complex Microbial Communities in the Population Health and Pathobiology department at North Carolina State University 
 
