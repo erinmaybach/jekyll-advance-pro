@@ -16,7 +16,7 @@ of gene expression by quorum sensing. Current Opinion in
 Microbiology, 2(6), 582–587. 
 https://doi.org/10.1016/s1369-5274(99)00025-9
 
- # Abstract
+# Abstract
   > "Quorum sensing, or the control of gene expression in response 
 to cell density, is used by both Gram-negative and Gram-positive 
 bacteria to regulate a variety of physiological functions. In all 
