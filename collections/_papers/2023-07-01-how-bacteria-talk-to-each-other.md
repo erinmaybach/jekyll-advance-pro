@@ -4,8 +4,8 @@ title: "How bacteria talk to each other: regulation of gene expression by quorum
 date: 2023-07-01T05:22:42Z
 authors: false
 description: false
-thumbnail: "/assets/images/gen/literature/lit-10-thumbnail.webp"
-image: "/assets/images/gen/literature/lit-10.webp"
+thumbnail: "/assets/images/gen/literature/lit-12-thumbnail.webp"
+image: "/assets/images/gen/literature/lit-12.webp"
 ---
 # Link to article
 [Click to Access](https://www.sciencedirect.com/science/article/abs/pii/S1369527499000259?via%3Dihub){: .btn}
