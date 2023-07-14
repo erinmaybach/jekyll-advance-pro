@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Microbial Metabolites in the Marine Carbon Cycle"
+title: "Microbial metabolites in the marine carbon cycle"
 date: 2023-07-01T05:22:42Z
 authors: false
 description: false
