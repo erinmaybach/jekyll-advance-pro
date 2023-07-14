@@ -4,14 +4,24 @@ title: "Microbial Metabolites in the Marine Carbon Cycle"
 date: 2023-07-01T05:22:42Z
 authors: false
 description: false
-thumbnail: "/assets/images/gen/literature/lit-6-thumbnail.webp"
-image: "/assets/images/gen/literature/lit-6.webp"
+thumbnail: "/assets/images/gen/literature/lit-10-thumbnail.webp"
+image: "/assets/images/gen/literature/lit-10.webp"
 ---
 # Link to article
-[Click to Access](https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1398-9995.2003.00224.x){: .btn}
+[Click to Access](https://www.nature.com/articles/s41564-022-01090-3){: .btn}
 
 # Citation
-Brusic, V., Petrovsky, N., Gendel, S. M., Millot, M., Gigonzac, O., & Stelman, S. J. (2003). Computational tools for the study of allergens. Allergy, 58(11), 1083–1092. https://doi.org/10.1034/j.1398-9995.2003.00224.x
+Moran, M. A., Kujawinski, E. B., Schroer, W. F., Amin, S. A., Bates, N. R., Bertrand, E. M., 
+Braakman, R., Brown, C. T., Covert, M. W., Doney, S. C., Dyhrman, S. T., Edison, A. S., Eren, A. 
+M., Levine, N. M., Li, L., Ross, A. C., Saito, M. A., Santoro, A. E., Segrè, D., … Vardi, A. 
+(2022). Microbial metabolites in the marine carbon cycle. Nature Microbiology, 7(4), Article 4. 
+https://doi.org/10.1038/s41564-022-01090-3
 
 # Abstract
-  > "Allergy is a major cause of morbidity worldwide. The number of characterized allergens and related information is increasing rapidly creating demands for advanced information storage, retrieval and analysis. Bioinformatics provides useful tools for analysing allergens and these are complementary to traditional laboratory techniques for the study of allergens. Specific applications include structural analysis of allergens, identification of B- and T-cell epitopes, assessment of allergenicity and cross-reactivity, and genome analysis. In this paper, the most important bioinformatic tools and methods with relevance to the study of allergy have been reviewed."
+  > "One-quarter of photosynthesis-derived carbon on Earth rapidly cycles through a set of 
+short-lived seawater metabolites that are generated from the activities of marine phytoplankton, 
+bacteria, grazers and viruses. Here we discuss the sources of microbial metabolites in the 
+surface ocean, their roles in ecology and biogeochemistry, and approaches that can be used to 
+analyse them from chemistry, biology, modelling and data science. Although microbial-derived 
+metabolites account for only a minor fraction of the total reservoir of marine dissolved organic 
+carbon, their flux and fate underpins the central role of the ocean in sustaining life on Earth."
