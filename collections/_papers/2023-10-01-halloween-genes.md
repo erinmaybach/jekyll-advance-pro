@@ -4,7 +4,7 @@ title: "Halloween genes in panarthropods and the evolution of the early moulting
 date: 2023-10-01T05:22:42Z
 authors: false
 description: false
-thumbnail: "/assets/images/gen/literature/lit-12-thumbnail.webp"
+thumbnail: false
 image: "/assets/images/gen/literature/lit-12.webp"
 ---
 # Link to article
