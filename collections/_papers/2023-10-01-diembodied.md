@@ -4,8 +4,8 @@ title: "The Drosophila disembodied gene controls late embryonic morphogenesis an
 date: 2023-10-01T05:22:42Z
 authors: false
 description: false
-thumbnail: "/assets/images/gen/literature/lit-10-thumbnail.webp"
-image: "/assets/images/gen/literature/lit-10.webp"
+thumbnail: false
+image: false
 ---
 # Link to article
 [Click to Access]([https://www.nature.com/articles/s41564-022-01090-3](https://pubmed.ncbi.nlm.nih.gov/10976044/)){: .btn}
