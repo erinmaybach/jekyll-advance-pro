@@ -4,12 +4,12 @@ title: "Bioinformnatics Workbook: Network analysis with WGCNA"
 date: 2024-01-08T09:00:00-05:00
 authors: ["Erin Maybach"]
 categories: ["Tutorial"]
-description: The meticulous signature of Bioinformatics Workbook makes learning the concepts and applications of WGCNA approachable to anyone.    
+description: The meticulous signature of Bioinformatics Workbook tutorials makes building weighted gene correlation networks a breeze.    
 thumbnail: "/assets/images/gen/blog/wgcna-thumbnail.webp"
 image: "/assets/images/gen/blog/wgcna-thumbnail.webp"
 ---
 
-## Link [Click Here to Access the WGCNA tutorial by Bioinformatics Workbook]([https://bioinformaticsworkbook.org/tutorials/wgcna.html]){: .btn}
+## Link [Click Here to Access the WGCNA tutorial by Bioinformatics Workbook](https://bioinformaticsworkbook.org/tutorials/wgcna.html#gsc.tab=0){: .btn}
 
 ## Skill Level
 
