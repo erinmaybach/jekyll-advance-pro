@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: "Explainable AI for Bioinformatics: Methods, Tools and Applications"
+title: "Explainable AI for Bioinformatics: Methods, Tools and Applications"
 date: 2024-01-01T05:22:42Z
 authors: false
 description: false
