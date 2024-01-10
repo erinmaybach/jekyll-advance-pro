@@ -4,8 +4,8 @@ title: "Explainable AI for Bioinformatics: Methods, Tools and Applications"
 date: 2024-01-01T05:22:42Z
 authors: false
 description: false
-thumbnail: false
-image: false
+thumbnail: "/assets/images/gen/literature/karim.webp"
+image: "/assets/images/gen/literature/karim.webp"
 ---
 # Link to article
 [Click to Access](https://doi.org/10.1093/bib/bbad236){: .btn}
