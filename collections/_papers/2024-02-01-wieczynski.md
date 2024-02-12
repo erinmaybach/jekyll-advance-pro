@@ -4,8 +4,8 @@ title: "Viral infections likely mediate microbial controls on ecosystem response
 date: 2024-02-01T05:22:42Z
 authors: false
 description: false
-thumbnail: "/assets/images/gen/literature/karim.webp"
-image: "/assets/images/gen/literature/karim.webp"
+thumbnail: "/assets/images/gen/literature/wieczynski.webp"
+image: "/assets/images/gen/literature/wieczynski.webp"
 ---
 # Link to article
 [Click to Access](https://academic.oup.com/femsec/article/99/3/fiad016/7057867){: .btn}
