@@ -1,0 +1,5 @@
+Date: 2024-06-01T12:34:56Z
+Title: Essential genes detection with Transposon insertion sequencing
+Link to article: https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/tnseq/tutorial.html
+Citation: Delphine Lariviere, Bérénice Batut, Essential genes detection with Transposon insertion sequencing (Galaxy Training Materials). https://training.galaxyproject.org/training-material/topics/genome-annotation/tutorials/tnseq/tutorial.html Online
+Abstract: Questions: What is Transposon insertion Sequencing? How to get TA sites Coverage? How to predict essential genes? Objectives: Understand the read structure of TnSeq analyses, Predict Essential genes with Transit, Compare gene essentiality in control sample and an different experimental condition
