@@ -44,7 +44,7 @@ Individuals with a passion for science communication and motivation are encourag
 
 ## Kate 
 
-**About Kate** Kate is a Project Coordinator in Nephrology at Columbia University’s Irvine Medical Campus where she works with Maya Sabatello in the Psychology Department. Her department’s research investigates bioethics in precision medicine, and Kate is excited about BioInform’s mission to enhance interdisciplinary collaboration across biomedical fields. We are happy to have her!
+Kate is a Research Project Coordinator in the Center for Precision Medicine and Genomics at Columbia University’s Irvine Medical Center where she works with Maya Sabatello. The team’s research focuses on the ethical, legal, and social implications (ELSI) of genetics, specifically precision medicine research. Kate is excited about BioInform’s mission to enhance interdisciplinary collaboration across biomedical fields. We are happy to have her!
 {% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-2.webp" %}
 
 # How to Apply
