@@ -1,6 +1,5 @@
-Date: 2024-07-01T12:34:56Z
-Title: Gene finding with a hidden Markov model of genome structure and evolution
-Link to article: https://doi.org/10.1093/bioinformatics/19.2.219 
-Citation: Pedersen, J. S., & Hein, J. (2003). Gene finding with a hidden Markov model of genome structure and evolution. Bioinformatics, 19(2), 219–227. https://doi.org/10.1093/bioinformatics/19.2.219 
-Abstract: Motivation: A growing number of genomes are sequenced. The differences in evolutionary pattern between functional regions can thus be observed genome-wide in a whole set of organisms. The diverse evolutionary pattern of different functional regions can be exploited in the process of genomic annotation. The modelling of evolution by the existing comparative gene finders leaves room for improvement.
-
+Date: 2024-08-01T12:34:56Z
+Title: Method of the Year: Spatially resolved transcriptomics
+Link to article: https://doi.org/10.1038/s41592-020-01033-y 
+Citation: Marx, V. (2021). Method of the Year: Spatially resolved transcriptomics. Nature Methods, 18(1), 9-14. https://doi.org/10.1038/s41592-020-01033-y 
+Abstract: Nature Methods has crowned spatially resolved transcriptomics Method of the Year 2020.
