@@ -1,6 +1,5 @@
-Date: 2024-08-01T12:34:56Z
-Title: Visualization and analysis of gene expression in tissue sections by spatial transcriptomics
-Link to article: https://doi.org/10.1126/science.aaf2403 
-Citation: Ståhl, P. L., Salmén, F., Vickovic, S., Lundmark, A., Navarro, J. F., Magnusson, J., Giacomello, S., Asp, M., Westholm, J. O., Huss, M., Mollbrink, A., Linnarsson, S., Codeluppi, S., Borg, Å., Pontén, F., Costea, P. I., Sahlén, P., Mulder, J., Bergmann, O., . . .  Frisén, J. (2016). Visualization and analysis of gene expression in tissue sections by spatial transcriptomics. Science. https://doi.org/10.1126/science.aaf2403  
-Abstract: Analysis of the pattern of proteins or messenger RNAs (mRNAs) in histological tissue sections is a cornerstone in biomedical research and diagnostics. This typically involves the visualization of a few proteins or expressed genes at a time. We have devised a strategy, which we call “spatial transcriptomics,” that allows visualization and quantitative analysis of the transcriptome with spatial resolution in individual tissue sections. By positioning histological sections on arrayed reverse transcription primers with unique positional barcodes, we demonstrate high-quality RNA-sequencing data with maintained two-dimensional positional information from the mouse brain and human breast cancer. Spatial transcriptomics provides quantitative gene expression data and visualization of the distribution of mRNAs within tissue sections and enables novel types of bioinformatics analyses, valuable in research and diagnostics.
-
+Date: 2024-11-01T12:34:56Z
+Title: What is a Foundation Model? An Explainer for Non-Experts
+Link to article: https://hai.stanford.edu/news/what-foundation-model-explainer-non-experts
+Citation: What is a Foundation Model? An Explainer for Non-Experts. 2023. Available from: https://hai.stanford.edu/news/what-foundation-model-explainer-non-experts
+Abstract: These powerful machine learning algorithms sit at the core of many generative AI tools today. Check out this helpful video from Stanford HAI  to learn more!

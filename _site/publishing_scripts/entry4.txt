@@ -1,5 +1,5 @@
-Date: 2024-08-01T12:34:56Z
-Title: Method of the Year: Spatially resolved transcriptomics
-Link to article: https://doi.org/10.1038/s41592-020-01033-y 
-Citation: Marx, V. (2021). Method of the Year: Spatially resolved transcriptomics. Nature Methods, 18(1), 9-14. https://doi.org/10.1038/s41592-020-01033-y 
-Abstract: Nature Methods has crowned spatially resolved transcriptomics Method of the Year 2020.
+Date: 2024-11-01T12:34:56Z
+Title: A cross-species foundation model for single cells
+Link to article: https://doi.org/10.1038/s41422-024-01045-9
+Citation: Traeuble, K., & Heinig, M. (2024). A cross-species foundation model for single cells. Cell Research, 1-2. https://doi.org/10.1038/s41422-024-01045-9 
+Abstract: Foundation models in transcriptomics have gained attention due to their ability to generalize across tasks with limited labeled data. GeneCompass builds upon these models by incorporating prior biological knowledge and datasets from both human and mouse cells, enhancing its capacity for cross-species analysis and advancing the field of single-cell transcriptomics.

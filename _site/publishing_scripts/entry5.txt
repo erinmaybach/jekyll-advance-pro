@@ -1,5 +1,5 @@
-Date: 2024-08-01T12:34:56Z
-Title: Spatial Transcriptomics Overview
-Link to article: https://nanostring.com/blog/what-is-spatial-gene-expression/
-Citation: NanoString. (2022, August 2). Spatial Transcriptomics Overview. NanoString. 
-Abstract: A beginner’s guide to spatial transcriptomics, answering the questions: What is spatial gene expression? Why is spatial gene expression important? What does spatial transcriptomics do? What is single-cell spatial transcriptomics?
+Date: 2024-11-01T12:34:56Z
+Title: Foundation models in molecular biology
+Link to article: https://doi.org/10.52601/bpr.2024.240006 
+Citation: Si, Y., Zou, J., Gao, Y., Chuai, G., Liu, Q., & Chen, L. (2024). Foundation models in molecular biology. Biophysics Reports, 10(3), 135. https://doi.org/10.52601/bpr.2024.240006 
+Abstract: Determining correlations between molecules at various levels is an important topic in molecular biology. Large language models have demonstrated a remarkable ability to capture correlations from large amounts of data in the field of natural language processing as well as image generation, and correlations captured from data using large language models can also be applicable to solving a wide range of specific tasks, hence large language models are also referred to as foundation models. The massive amount of data that exists in the field of molecular biology provides an excellent basis for the development of foundation models, and the recent emergence of foundation models in the field of molecular biology has really pushed the entire field forward. We summarize the foundation models developed based on RNA sequence data, DNA sequence data, protein sequence data, single-cell transcriptome data, and spatial transcriptome data respectively, and further discuss the research directions for the development of foundation models in molecular biology.
